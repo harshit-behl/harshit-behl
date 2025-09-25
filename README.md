@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-# Hi there 👋  <br><br>® I'm currently working on a React + Node.js price comparison app.  <br><br>- I'm looking to collaborate on open-source web projects and fun side apps.  <br><br>co I'm looking for help with setting up CI/CD pipelines in GitHub Actions.  <br><br>* I'm currently learning MongoDB, Docker, and a bit of TypeScript.  <br><br>• Ask me about frontend design tips, basic backend setup, or GitHub workflows.  <br><br>+ Fun fact: I can spend hours tweaking UI colors until they "feel right" 🎨  <br>
+# Hi there 👋  <br><br>® I'm currently working on a React + Node.js price comparison app.  <br><br>- I'm looking to collaborate on open-source web projects and fun side apps..  <br><br>* I'm currently learning AI .  <br><br>• Ask me about frontend design tips, basic backend setup, or GitHub workflows.  <br><br>+ Fun fact: I can spend hours tweaking UI colors until they "feel right" 🎨  <br>
 
 
 ## 🌐 Socials:
