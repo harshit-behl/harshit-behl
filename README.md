@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋   I'm currently working on a React + Node.js price comparison app.   I'm looking to collaborate on open-source web projects and fun side apps..  <br><br>* I'm currently learning AI .   Ask me about frontend design tips, basic backend setup, or GitHub workflows.  <br><br>+ Fun fact: I can spend hours tweaking UI colors until they "feel right" 🎨 
+# Hi there 👋 <br><br>  I'm currently working on a React + Node.js price comparison app. <br><br>  I'm looking to collaborate on open-source web projects and fun side apps..  <br><br>* I'm currently learning AI .<br><br>   Ask me about frontend design tips, basic backend setup, or GitHub workflows.  <br><br>+ Fun fact: I can spend hours tweaking UI colors until they "feel right" 🎨 
 
 
 ## 🌐 Socials:
