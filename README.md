@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=harshit-behl&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/harshit-behl?style=social)
-![GitHub stars](https://img.shields.io/github/stars/harshit-behl?style=social)
-
 </div>
 
 ---
