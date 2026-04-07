@@ -80,43 +80,6 @@ I'm a passionate Full Stack Developer who loves crafting elegant solutions to co
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-behl&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-behl&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshit-behl&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![trophy](https://github-profile-trophy.vercel.app/?username=harshit-behl&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit-behl&theme=tokyo-night&hide_border=true)
-
-</div>
-
 ---
 
 ## 🌐 Connect With Me
